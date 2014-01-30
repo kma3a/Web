@@ -1,11 +1,11 @@
 body {
   font-family: 'Nunito', sans-serif;
-  color: #FAF3BC;
-  background: #420600 url('img/bg-texture.jpg') repeat;
+  color: #FFFD40;
+  background: #6890D4 repeat;
 }
 
 a {
-  color: #4FB69F;
+  color: #FFBC40;
   text-decoration: none;
 }
 
@@ -16,12 +16,12 @@ h1 {
 
 h2 {
   font-size: 1.500em;
-  color: #B4C34F;
+  color: #FFA500;
 }
 
 .btn {
-  color: #FAF3BC;
-  background: #4FB69F url('img/texture.png') no-repeat right top;
+  color: #FFBC40;
+  background: #5D2680 no-repeat right top;
   padding: 15px 30px;
   margin: 40px 0px;
   border-radius: 25px;
@@ -29,7 +29,7 @@ h2 {
 }
 
 .btn:hover {
-  background-color: #4CC4A7;
+  background-color: #6C0AAB;
 }
 
 ul.nav {
@@ -44,7 +44,7 @@ ul.nav li {
 }
 
 ul.nav li a {
-  color: #FAF3BC;
+  color: #FFFD40;
   font-size: 1.3em;
 }
 
@@ -65,8 +65,14 @@ ul.nav li a {
   border: 8px solid #FAF3BC;
 }
 
+.contact a img {
+  background: #6C0AAB;
+  border: 3px solid #6C0AAB;
+  border-radius: 30px;
+}
+
 #copyright {
-  border-top: 8px solid #2A0400;
+  border-top: 8px solid #29477F;
   padding: 10px 0px;
   margin: 15px 0px;
   text-align: center;
