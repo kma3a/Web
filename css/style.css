@@ -64,11 +64,12 @@ ul.nav li a {
 
 #new-cupcakes img {
   border: 8px solid #FAF3BC;
-  margin: 0 0 20px 0;
+  margin: 20px 0 20px 0;
 }
 
 #featured-cupcake img {
   border: 8px solid #FAF3BC;
+  margin-left: 100px;
 }
 
 .contact a img {
