@@ -30,17 +30,18 @@ h2 {
 
 .btn:hover {
   background-color: #6C0AAB;
+  color: #FFFD40;
 }
 
 ul.nav {
-  margin: 120px 0 0 0;
+  margin: 20px 0 0 0;
   list-style: none;
   float: right;
 }
 
 ul.nav li {
   float: left;
-  margin-right: 40px;
+  margin-right: 50px;
 }
 
 ul.nav li a {
@@ -54,6 +55,7 @@ ul.nav li a {
 
 .logo img {
   margin-top: 20px;
+  margin-left: 180px;
 }
 
 #new-cupcakes img {
