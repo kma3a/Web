@@ -54,7 +54,7 @@ ul.nav li a {
 }
 
 #intro {
-  margin: 50px 0 75px 0;
+  margin: 50px 10px 75px 0;
 }
 
 .logo img {
@@ -70,6 +70,7 @@ ul.nav li a {
 #featured-cupcake img {
   border: 8px solid #FAF3BC;
   margin-left: 100px;
+  margin-top: 70px;
 }
 
 .contact a img {
